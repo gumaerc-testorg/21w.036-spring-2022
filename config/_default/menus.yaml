@@ -15,9 +15,9 @@ leftnav:
   name: Assignments
   pageRef: /pages/assignments
   weight: 40
-- identifier: external--1714960261-1667940108252
+- identifier: 0dbb18e2-07d8-47f1-a31d-3da532611e96
   name: Course Library Guide
-  url: https://libguides.mit.edu/writingandtheenvironment-taft
+  pageRef: /external-resources/course-library-guide_0dbb18e2-07d8-47f1-a31d-3da532611e96
   weight: 50
 - identifier: 231da9b6-0c7a-4272-ace3-00d6d53306da
   name: 'Narrative Essay: Kernel and Motive'
