@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/mit21w-036s22_critreview.pdf
+file_size: 138274
 file_type: application/pdf
 image_metadata:
   caption: ''
