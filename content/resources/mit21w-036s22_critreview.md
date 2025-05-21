@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/mit21w-036s22_critreview.doc
+file: courses/21w036-science-writing-and-new-media/mit21w-036s22_critreview.doc
 file_size: 40960
 file_type: application/msword
 image_metadata:
