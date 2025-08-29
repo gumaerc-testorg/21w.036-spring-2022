@@ -37,6 +37,8 @@
     "website": "21w036-science-writing-and-new-media"
   },
   "course_title": "Science Writing and New Media: Writing and the Environment",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "Environmentalists have traditionally relied upon the power of their prose to transform the thoughts and behavior of their contemporaries. In 1963, Rachel Carson, a marine biologist with a penchant for writing, described a world without wildlife in *Silent Spring* and altered the way Americans understood their impact on the landscape. Like other writers we will encounter this semester, Carson realized that she could alter the perceptions of her contemporaries only if she was able to transmit her knowledge in engaging and accessible language. We will do our best to follow in her footsteps.",
   "department_numbers": [
     "CMS-W"
@@ -49,8 +51,10 @@
   },
   "learning_resource_types": [
     "Written Assignments",
-    "Readings"
+    "Readings",
+    "Editable Files"
   ],
   "site_uid": "fc05a2cf-c4d1-4d8a-870c-5b10e4d1ecb1",
-  "site_short_id": "21w.036-spring-2022"
+  "site_short_id": "21w.036-spring-2022",
+  "site_url_path": "courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022"
 }
