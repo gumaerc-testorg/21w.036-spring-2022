@@ -58,22 +58,22 @@ Choose a pair of documentaries from the {{% resource_link "19ddb4d4-2f6a-4255-97
 1. Read {{% resource_link "0f7752ed-41a3-4511-be96-3883074d09b6" "Preparation for Critical Review (PDF)" %}} {{% resource_link "5675dd66-953c-45a3-a001-5a3f56f12fb4" "(DOC" %}}). (Questions to guide your analysis.)
 2. Read articles related to the topic of your documentaries (located with help of instructor).
 3. Read broader articles on communicating science. 
-    - Pineda, Diego. "[Editing a Science Documentary: More than Words (Literally!) (PDF)](http://www.councilscienceeditors.org/wp-content/uploads/v27n2p047-049.pdf)." *Sci Ed* 27, no. 2 (2004): 47–49. 
+    - Pineda, Diego. "{{% resource_link "d65c103d-1871-4dfd-a334-1ed219833d65" "Editing a Science Documentary: More than Words (Literally!) (PDF)" %}}." *Sci Ed* 27, no. 2 (2004): 47–49. 
         - For context and terminology.
 4. Read two articles from this list. Choose carefully. 
-    1. Nisbet, Matthew C., and Dietram A. Scheufele. "[What's Next for Science Communication? Promising Directions and Lingering Distractions](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.0900041)." *American Journal of Botany* 96, no. 10 (2009): 1767–1778.
-    2. Laursen, Sandra L., and Annette Brickley. "[Focusing the Camera Lens on the Nature of Science: Evidence for the Effectiveness of Documentary Film as a Broader Impacts Strategy](https://www.tandfonline.com/doi/full/10.5408/1.3604825)." *Journal of Geoscience Education* 59, no. 3 (2011): 126–138.
-    3. Dahlstrom, Michael F. "[Using Narratives and Storytelling to Communicate Science with Nonexpert Audiences](https://www.pnas.org/doi/full/10.1073/pnas.1320645111)." *Proceedings of the National Academy of Sciences* 111, no. supplement 4 (2014): 13614–13620.
-    4. Scheufele, Dietram A. "[Communicating Science in Social Settings](https://www.pnas.org/doi/full/10.1073/pnas.1213275110)." *Proceedings of the National Academy of Sciences* 110, no. supplement 3 (2013): 14040–14047.
-    5. Varner, Johanna. "[Scientific Outreach: Toward Effective Public Engagement with Biological Science](https://academic.oup.com/bioscience/article/64/4/333/248218)." *BioScience* 64, no. 4 (2014): 333-340.
-    6. Brossard, Dominique. "[New Media Landscapes and the Science Information Consumer](https://www.pnas.org/doi/full/10.1073/pnas.1212744110)." *Proceedings of the National Academy of Sciences* 110, no. supplement 3 (2013): 14096-14101.
+    1. Nisbet, Matthew C., and Dietram A. Scheufele. "{{% resource_link "fe224b6e-1dce-4970-81ea-bc510bcd38c1" "What's Next for Science Communication? Promising Directions and Lingering Distractions" %}}." *American Journal of Botany* 96, no. 10 (2009): 1767–1778.
+    2. Laursen, Sandra L., and Annette Brickley. "{{% resource_link "0f645e97-370e-4f67-bde1-ece13a69a289" "Focusing the Camera Lens on the Nature of Science: Evidence for the Effectiveness of Documentary Film as a Broader Impacts Strategy" %}}." *Journal of Geoscience Education* 59, no. 3 (2011): 126–138.
+    3. Dahlstrom, Michael F. "{{% resource_link "10a3b86a-0507-4f53-95af-ec6ccec03b2f" "Using Narratives and Storytelling to Communicate Science with Nonexpert Audiences" %}}." *Proceedings of the National Academy of Sciences* 111, no. supplement 4 (2014): 13614–13620.
+    4. Scheufele, Dietram A. "{{% resource_link "f59c3900-a0e3-4d07-94e8-b91666d14991" "Communicating Science in Social Settings" %}}." *Proceedings of the National Academy of Sciences* 110, no. supplement 3 (2013): 14040–14047.
+    5. Varner, Johanna. "{{% resource_link "4f534e74-b7f4-4391-a6c2-bd7ed7b0e086" "Scientific Outreach: Toward Effective Public Engagement with Biological Science" %}}." *BioScience* 64, no. 4 (2014): 333-340.
+    6. Brossard, Dominique. "{{% resource_link "d9533cf2-66b9-4c71-8fde-e7d405702876" "New Media Landscapes and the Science Information Consumer" %}}." *Proceedings of the National Academy of Sciences* 110, no. supplement 3 (2013): 14096-14101.
 
 #### Session 10:
 
 Additional readings on communicating science: 
 
 - O’Connor, Cailin, and James Owen Weatherall. "Why We Trust Lies." *Scientific American, Sept* (2019).
-- Kolbert, Elizabeth. "[Why Facts Don’t Change Our Minds](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)." *The New Yorker* 27, no. 2017 (2017): 47.
+- Kolbert, Elizabeth. "{{% resource_link "742b0c39-c93c-4f0b-9736-38e91914dc2e" "Why Facts Don’t Change Our Minds" %}}." *The New Yorker* 27, no. 2017 (2017): 47.
 
 #### Session 11–13:
 
@@ -84,7 +84,7 @@ No assigned readings.
 Preparing for the Scientific American Update.
 
 - Look through the list of {{% resource_link "a915b967-2c3f-47ed-af29-84715a92555f" "older articles" %}} that can provide a starting point for your Scientific American Update. Select an article that intrigues you and read it.
-- Penrose, Ann and Steven Katz. "Reviewing Prior Research." Chapter Five in [*Writing in the Sciences: Exploring Conventions of Scientific Discourse*](https://parlorpress.com/products/writing-in-the-sciences-exploring-conventions-of-scientific-discourse). Third Edition. Open Access Version. Parlor Press, 2010. ISBN: 9781643171869.
+- Penrose, Ann and Steven Katz. "Reviewing Prior Research." Chapter Five in {{% resource_link "5cfa295d-9a29-487b-9058-76032d0bd433" "*Writing in the Sciences: Exploring Conventions of Scientific Discourse*" %}}. Third Edition. Open Access Version. Parlor Press, 2010. ISBN: 9781643171869.
 - Bednarek, Angela T. "Undamming Rivers: A Review of the Ecological Impacts of Dam Removal." *Environmental Management* 27, no. 6 (2001): 803–814.
 - Marks, Jane C. "Down Go the Dams." *Scientific American* 296, no. 3 (2007): 66–71.
 
@@ -94,11 +94,11 @@ Preparing for the Scientific American Update.
 - Hancock, Elise. "Finding Stories" in *Ideas into Words: Mastering the Craft of Science Writing*. JHU Press, 2003. ISBN: 9780801873294. 
 - Zinsser, William. "Science and Technology" in *On Writing Well: An Informal Guide to Writing Nonfiction.* Harper Collins, 2012. ISBN: 9780062250506.
 - Read two (out of five) student *Scientific American* updates:
-    - [Saving Our Pollinators: Investigating Causes of Bee Deaths](https://cmsw.mit.edu/angles/2019/saving-our-pollinators-investigating-causes-of-bee-deaths/)
-    - [Can Carbon Capture and Storage Help Us Curb Climate Change?](https://cmsw.mit.edu/angles/2018/can-carbon-capture-and-storage-help-us-curb-climate-change/)
-    - [Protecting against Lyme Disease](http://cmsw.mit.edu/angles/2017/protecting-against-lyme-disease-a-scientific-american-update/)
-    - [Our Guts, Our Bodies, Ourselves](http://cmsw.mit.edu/angles/2014/?page_id=723)
-    - [Cancer-Causing Fat: Why Postmenopausal Obese Women Are in Danger](http://cmsw.mit.edu/angles/2017/cancer-causing-fat-why-postmenopausal-obese-women-are-in-danger/)
+    - {{% resource_link "ca1694e1-0010-42e9-a205-92beb404bb8f" "Saving Our Pollinators: Investigating Causes of Bee Deaths" %}}
+    - {{% resource_link "1a000106-da52-4e4a-840e-fadd0875fa40" "Can Carbon Capture and Storage Help Us Curb Climate Change?" %}}
+    - {{% resource_link "c19caa98-e7ec-4007-8194-0a30056a6716" "Protecting against Lyme Disease" %}}
+    - {{% resource_link "994e8ebe-f7ec-42c4-bd35-3aeaa5ec11fd" "Our Guts, Our Bodies, Ourselves" %}}
+    - {{% resource_link "956cfc3e-a010-4e1f-a800-841d6231a705" "Cancer-Causing Fat: Why Postmenopausal Obese Women Are in Danger" %}}
 
 #### Session 16:
 
@@ -117,7 +117,7 @@ No readings assigned.
 
 #### Session 19: 
 
-*Angles 2019* student work: [Saving Our Pollinators: Investigating Causes of Bee Deaths](https://cmsw.mit.edu/angles/2019/saving-our-pollinators-investigating-causes-of-bee-deaths/)
+*Angles 2019* student work: {{% resource_link "ca1694e1-0010-42e9-a205-92beb404bb8f" "Saving Our Pollinators: Investigating Causes of Bee Deaths" %}}
 
 Current student draft. Not available to OCW readers.
 
@@ -129,7 +129,7 @@ No assigned readings.
 
 Watch three TED talks from the following list. You might prefer to look at ones that do not cover your own topic.
 
-Search talks at [TedTalks](http://www.ted.com/talks) or [YouTube](http://www.youtube.com/)
+Search talks at {{% resource_link "98359bb8-7bce-4e0a-bfdf-e12e6fc317e0" "TedTalks" %}} or {{% resource_link "c21f4ee5-02f0-4de5-8985-91c190189dc2" "YouTube" %}}
 
 - James Hansen: “Why I Must Speak Out About Climate Change” (2012)
 - James Balog (Director of *Chasing Ice*): “Time-Lapse Proof of Extreme Ice Loss” (2009)

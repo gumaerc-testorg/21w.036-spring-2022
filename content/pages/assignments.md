@@ -80,7 +80,7 @@ See {{% resource_link "a915b967-2c3f-47ed-af29-84715a92555f" "Scientific America
 
 Watch three of the following talks. You might prefer to look at ones that do not cover your own topic.
 
-Search talks at [TED Talks](https://www.ted.com/talks) or [YouTube](www.youtube.com).
+Search talks at {{% resource_link "5f7c5c73-441f-4aba-b2e3-e4fa5463a8e3" "TED Talks" %}} or [YouTube](www.youtube.com).
 
 - James Hansen: “Why I Must Speak Out About Climate Change” (2012)
 - James Balog: “Time-Lapse Proof of Extreme Ice Loss” (2009)

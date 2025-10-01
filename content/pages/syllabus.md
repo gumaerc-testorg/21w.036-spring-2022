@@ -31,7 +31,7 @@ The writing assignments will begin with those things that you know best—your o
 
 All of the readings for this course can be found on our course site. Each one is linked to a specific assignment and date.
 
-**Writer's Handbook**: If you do not own a writer’s handbook of some kind, Purdue’s [Online Writing Lab (OWL)](https://owl.purdue.edu/) is an excellent resource. 
+**Writer's Handbook**: If you do not own a writer’s handbook of some kind, Purdue’s {{% resource_link "0a5b44f0-1399-4ff7-9351-fe79f5e5311d" "Online Writing Lab (OWL)" %}} is an excellent resource. 
 
 ### Assignments
 
